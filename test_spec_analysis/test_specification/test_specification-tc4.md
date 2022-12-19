@@ -8,23 +8,23 @@ Something here
 
 - **Test name:** weather module 30 seconds measurements
 - **Test filename:** weatherModule
-- **Test type:** QA
-- **Test level:** L1
+- **Test type:** functional test
+- **Test level:** L3
 - **Test created by:** Shady
 
 
 ## Preconditions
 
-| **Action**                                                                                                           | **Expected outcome**             |
-|:---------------------------------------------------------------------------------------------------------------------|:---------------------------------|
-| solar panels open, change temperature of the environment to check the efficacy of the rover in different temperatures | noticable difference in efficacy |
+| **Action**                                                                                                              | **Expected outcome**             |
+|:------------------------------------------------------------------------------------------------------------------------|:---------------------------------|
+| solar panels unfold, change temperature of the environment to check the efficacy of the rover in different temperatures | noticable difference in efficacy |
 
 
 ## Test
 
-| **Action**                                                                                        | **Expected outcome**         |
-|:--------------------------------------------------------------------------------------------------|:-----------------------------|
-| use the new efficacy function to check the efficacy levels of the rover in different temperatures | provide data of the efficacy |
+| **Action**                                                                                               | **Expected outcome**     |
+|:---------------------------------------------------------------------------------------------------------|:-------------------------|
+| use the new calc_efficiency function to check the efficacy levels of the rover in different temperatures | output of the efficacy   |   
 
 
 ## Postconditions

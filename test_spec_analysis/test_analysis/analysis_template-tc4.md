@@ -9,9 +9,9 @@
 
 ### weather module
 
-| **REQ-id** | **Test type** | **Test level** | **Notes**  |
-|:-----------|:--------------|:---------------|:-----------|
-| 4          | QA            | L2             |            |
+| **REQ-id** | **Test type**   | **Test level** | **Notes**  |
+|:-----------|:----------------|:---------------|:-----------|
+| 4          | functional test | L3             |            |
 
 ### Module name
 
@@ -21,6 +21,6 @@
 
 ## Test cases identified
 
-| **REQ-id** | **Test case id** | **Test level** | **Notes**                                                                                                                   |
-|:-----------|:-----------------|:---------------|:----------------------------------------------------------------------------------------------------------------------------|
-| 4          | TC4              | L2             | ENABLER REQUIRED: graph that shows at what temperature the solar panels are most efficient & a function to measure efficacy |
+| **REQ-id** | **Test case id** | **Test level** | **Notes**      |
+|:-----------|:-----------------|:---------------|:---------------|
+| 4          | TC4              | L3             |                |
