@@ -21,6 +21,6 @@
 
 ## Test cases identified
 
-| **REQ-id** | **Test case id** | **Test level** | **Notes**                  |
-|:-----------|:-----------------|:---------------|:---------------------------|
-| 2          | tc2              | L0             | ENABLER REQUIRED: datetime |
+| **REQ-id** | **Test case id** | **Test level** | **Notes**                                                               |
+|:-----------|:-----------------|:---------------|:------------------------------------------------------------------------|
+| 2          | tc2              | L0             | ENABLER REQUIRED: make new consecutive measurements in under 30 seconds |

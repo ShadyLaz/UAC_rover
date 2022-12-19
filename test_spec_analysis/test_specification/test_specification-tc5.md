@@ -15,9 +15,9 @@ Something here
 
 ## Preconditions
 
-| **Action**   | **Expected outcome**       |
-|:-------------|:---------------------------|
-|              |                            |
+| **Action**                                       | **Expected outcome**                   |
+|:-------------------------------------------------|:---------------------------------------|
+| change temperature to 0.6, check efficiency loss | max efficiency loss due to temperature |
 
 
 ## Test
@@ -29,6 +29,6 @@ Something here
 
 ## Postconditions
 
-| **Action** | **Expected outcome** |
-|:-----------|:---------------------|
-|            |                      |
+| **Action**                           | **Expected outcome** |
+|:-------------------------------------|:---------------------|
+| change temperature back to required  | max efficiency       |

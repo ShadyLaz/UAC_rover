@@ -21,6 +21,6 @@
 
 ## Test cases identified
 
-| **REQ-id** | **Test case id** | **Test level** | **Notes** |
-|:-----------|:-----------------|:---------------|:----------|
-|    1        |         tc1         |      L1          |      - its testable, no enforcer required    |
+| **REQ-id** | **Test case id** | **Test level** | **Notes**                       |
+|:-----------|:-----------------|:---------------|:--------------------------------|
+|    1        |         tc1         |      L1          | - its testable, no enabler required |
